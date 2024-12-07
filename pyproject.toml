@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "review-matrix"
+version = "0.1.0"
+description = "A CLI matrix reviewer during lunch break to skim through python modules in a current directory."
+authors = ["Alexander D. Daguob <141607335+addaguob@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

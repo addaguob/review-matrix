@@ -7,4 +7,4 @@ Usage: python review_matrix.py <path_to_module.py>
 
 ## Demo
 
-![Demo in Git Bash](tests/review_matrix.mkv)
+![Demo in Git Bash](tests/review_matrix.gif)

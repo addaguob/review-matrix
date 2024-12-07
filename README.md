@@ -7,4 +7,4 @@ Usage: python review_matrix.py <path_to_module.py>
 
 ## Demo
 
-![Demo in Git Bash](tests/review-matrix-Made-with-Clipchamp.gif)
+![Demo in Git Bash](tests/review_matrix_Made-with-Clipchamp.gif)
